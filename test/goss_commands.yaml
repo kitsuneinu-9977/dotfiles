@@ -1,0 +1,37 @@
+---
+command:
+  bat:
+    exec: bat --version
+    exit-status: 0
+
+  direnv:
+    exec: direnv --version
+    exit-status: 0
+
+  exa:
+    exec: exa --version
+    exit-status: 0
+
+  fd:
+    exec: fd --version
+    exit-status: 0
+
+  fzf:
+    exec: fzf --version
+    exit-status: 0
+
+  ghq:
+    exec: ghq --version
+    exit-status: 0
+
+  goss:
+    exec: goss --version
+    exit-status: 0
+
+  lazydocker:
+    exec: lazydocker --version
+    exit-status: 0
+
+  rg:
+    exec: rg --version
+    exit-status: 0

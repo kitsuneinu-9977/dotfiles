@@ -1,0 +1,5 @@
+---
+command:
+  tmux:
+    exec: tmux -V
+    exit-status: 0
